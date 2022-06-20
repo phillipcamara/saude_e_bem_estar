@@ -1,0 +1,10 @@
+*, *:before, *:after { 
+    margin:0;
+    padding:0;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial,sans-serif;
+  }
+  
+  body{
+    margin:10px;
+  }
